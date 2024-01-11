@@ -30,7 +30,7 @@
 ### SMB CSI
 - Nomadマシンのスペックが低く、CephやMinIOを構築できないため、やむなくSMBを採用。
 - SMBのホストマシンは、以前から稼働しているDockerサーバー。
-## Tailscale VPN
+### Tailscale VPN
 - 管理端末からアクセスするために選定。
 - 接続が容易である。
 - 必要であれば共有リンクを発行でき、Tailscale上でACLを設定できるため、管理が容易である。
