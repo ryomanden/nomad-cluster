@@ -1,6 +1,8 @@
 <h1 align="center">My Nomad Cluster</h1>
 <p align="center">なぜNomadのクラスタを構築するに至ったのか、どのような要件を満たすために構築したのか。<br/>また、Nomadクラスタの現状の課題についてまとめる。</p>
 
+![nomad_cluster_image2](https://github.com/ryomanden/nomad-cluster/assets/20297254/a85aafbd-a6c8-4cf5-a33b-289cfe41d8ee)
+
 ## TL;DR
 自分が一番使いやすいプライベートクラウドの模索、構築
 
